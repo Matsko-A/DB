@@ -85,5 +85,8 @@ int main() {
 	cout << endl;
 
 	cout << "Сумма элементов массива: " << arraySum(arr, size) << endl;
+
+	delete[] arr;
+
 	return 0;
 }
