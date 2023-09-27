@@ -1,1 +1,2 @@
 D:\Плюсы\Array\x64\Debug\Array.exe
+C:\Users\anton\source\repos\DB\Array\x64\Debug\Array.exe
